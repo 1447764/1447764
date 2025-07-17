@@ -1,4 +1,4 @@
-## 안녕하세요 SSAFY 서울 6반 문현아입니다 👋
+## SSAFY 서울 6반 문현아입니다 👋
 
 <!--
 **1447764/1447764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
