@@ -3,7 +3,7 @@
 [ ] 로 표시된 부분을 자신의 정보로 수정하고, 필요 없는 부분은 과감히 삭제하세요!
 -->
 
-### Hi there, I'm [이름/닉네임] 👋 | Game Developer
+### SSAFY 서울 6반 문현아입니다 👋 | Game Developer
 
 <br>
 
@@ -12,11 +12,10 @@
   <!-- 예: <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9wY2VjYTNzMGF1Z2Z6bWdja3Y4YmJ3MWJqY3RkOXk3amV1ZDRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNa0RUYa5E7iiQ/giphy.gif" width="400"> -->
 </p>
 
-- 🔭 I’m currently developing **[나만의 인디 게임 'Project A']**
-- 🌱 I’m currently learning **[Unreal Engine 5의 Niagara VFX 시스템, DOTS 아키텍처 등]**
-- 🤔 I’m interested in **[절차적 생성(PCG), AI 행동 트리, 게임 최적화]**
-- 🎮 Let's play a game together! My favorite game is **[최애 게임]**
-- 📫 How to reach me: **[이메일 주소]**
+- 🔭 역삼 멀티캠퍼스 **[SSAFY]** 에서 공부하고 있습니다
+- 🤔 **[게임, 영화, 웹툰, 만화, 애니, 생성형AI, 3D그래픽]** 에 관심을 가지고 있습니다
+- 🎮 같이 해요! **[GTA V]**
+- 📫 연락처: **[971m9280@gmail.com]**
 -  portfolio: **[포트폴리오 웹사이트, itch.io, ArtStation 링크 등]**
 
 <br>
