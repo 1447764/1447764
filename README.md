@@ -45,9 +45,9 @@
 테마(theme)는 여러 종류가 있으니, 원하는 디자인으로 변경할 수 있습니다. (예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
 -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="[YOUR_GITHUB_USERNAME]'s GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[1447764]&show_icons=true&theme=radical" alt="[YOUR_GITHUB_USERNAME]'s GitHub stats" />
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[1447764]&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <br>
