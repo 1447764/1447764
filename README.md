@@ -1,8 +1,3 @@
-<!-- 
-게임 클라이언트 개발자에게 어울리도록 커스터마이징된 템플릿입니다.
-[ ] 로 표시된 부분을 자신의 정보로 수정하고, 필요 없는 부분은 과감히 삭제하세요!
--->
-
 ### SSAFY 서울 6반 문현아입니다 👋 | Game Developer
 
 <br>
@@ -13,10 +8,11 @@
 </p>
 
 - 🔭 역삼 멀티캠퍼스 **[SSAFY]** 에서 공부하고 있습니다
-- 🤔 **[게임, 영화, 웹툰, 만화, 애니, 생성형AI, 3D그래픽]** 에 관심을 가지고 있습니다
+- 🤔 **[게임, 생성형AI, 3D그래픽]** 에 관심을 가지고 있습니다
 - 🎮 같이 해요! **[GTA V]**
+- ❤️ **[영화, 웹툰, 만화, 애니]** 를 좋아합니다
 - 📫 연락처: **[971m9280@gmail.com]**
--  portfolio: **[포트폴리오 웹사이트, itch.io, ArtStation 링크 등]**
+- 🚪 포트폴리오: **[포트폴리오 웹사이트, itch.io, ArtStation 링크 등]**
 
 <br>
 
@@ -29,8 +25,11 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
   
   <br><b>Languages</b><br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
   <br><b>Tools & ETC</b><br>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
@@ -63,7 +62,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <p><b>[프로젝트 1]</b>에 대한 간략한 설명입니다. Unity 엔진을 사용하여 만든 2D 플랫포머 게임으로, 플레이어의 움직임과 물리 시스템을 중점적으로 개발했습니다.</p>
+      <p><b>[프로젝트 1]</b>에 대한 간략한 설명입니다. Unreal 엔진을 사용하여 만든 멀티플레이 TPS 게임으로, 기능 구현 및 동기화를 중점적으로 개발했습니다.</p>
       <p>
         <!-- 프로젝트 관련 링크들을 배지로 추가하세요 -->
         <a href="[프로젝트 Github 리포지토리 주소]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
