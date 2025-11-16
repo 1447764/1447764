@@ -1,6 +1,3 @@
-# 👋 안녕하세요, 언리얼 엔진 개발자 문현아입니다.
-<br>
-
 ## 🚀 About Me
 - C++과 **Unreal Engine**을 기반으로 깊이 있는 게임 시스템을 설계하고 구현하는 것을 목표로 하는 게임 클라이언트 개발자입니다.
 - 대규모 프로젝트의 복잡한 구조를 이해하고, 유지보수가 용이한 코드를 작성하기 위해 항상 노력합니다.
@@ -83,6 +80,4 @@
 
 
 ## 📫 Contact Me
-| Email | Portfolio | Blog |
-| :---: | :---: | :---: |
-| <a href="mailto:9719280@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a> | <a href="https://www.notion.so/2aa9f580e19a80079e51e5701a002cfa?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a> | <a href="https://m-ha.tistory.com/"><a href="https://m-ha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E65543?style=for-the-badge&logo=tistory&logoColor=white"></a></a> |
+<a href="mailto:971m9280@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.notion.so/2aa9f580e19a80079e51e5701a002cfa?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>  <a href="https://m-ha.tistory.com/"><a href="https://m-ha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E65543?style=for-the-badge&logo=tistory&logoColor=white"></a></a>
