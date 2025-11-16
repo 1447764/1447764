@@ -1,15 +1,12 @@
 # 👋 안녕하세요, 언리얼 엔진 개발자 문현아입니다.
 <br>
 
-### 🚀 About Me
+## 🚀 About Me
 - C++과 **Unreal Engine**을 기반으로 깊이 있는 게임 시스템을 설계하고 구현하는 것을 목표로 하는 게임 클라이언트 개발자입니다.
 - 대규모 프로젝트의 복잡한 구조를 이해하고, 유지보수가 용이한 코드를 작성하기 위해 항상 노력합니다.
 - 이외에도 **Python**을 활용한 AI 모델 연동이나 **Django**를 이용한 간단한 백엔드 구축 등 다양한 기술 분야에 호기심을 갖고 도전하는 것을 즐깁니다.
 
-<br>
-
----
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 > C++과 **Unreal Engine**을 주력으로 사용합니다
 
 <table>
@@ -53,11 +50,9 @@
   </tr>
 </table>
 
-<br>
 
----
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 > 각 프로젝트의 상세 내용은 제목을 클릭하여 Repository에서 확인하실 수 있습니다.
 
 ### 📌 [프로젝트 1: 언리얼 TPS 게임 'Clash Of Blood'](https://github.com/Your-ID/Repository-Link)
@@ -82,18 +77,12 @@
 >   - ScriptableObject를 이용한 데이터 기반 아이템 및 퀘스트 시스템 설계
 > - **사용 기술:** `Unity`, `C#`, `Python`, `Django`, `LangChain`, `REST API`
 
-<br>
 
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1447764&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
----
-
-### 📫 Contact Me
+## 📫 Contact Me
 | Email | Portfolio | Blog |
 | :---: | :---: | :---: |
 | <a href="mailto:9719280@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a> | <a href="https://www.notion.so/2aa9f580e19a80079e51e5701a002cfa?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a> | <a href="https://m-ha.tistory.com/"><a href="https://m-ha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E65543?style=for-the-badge&logo=tistory&logoColor=white"></a></a> |
