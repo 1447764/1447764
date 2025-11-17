@@ -52,8 +52,8 @@
 ## 🚀 Featured Projects
 > 각 프로젝트의 상세 내용은 제목을 클릭하여 Repository에서 확인하실 수 있습니다.
 
-### 📌 [프로젝트 1: 언리얼 TPS 게임 'Clash Of Blood'](https://github.com/Your-ID/Repository-Link)
-![프로젝트 대표 이미지나 GIF를 여기에 넣어주세요](https://via.placeholder.com/700x300.png?text=Unreal+Engine+Project+GIF)
+### 📌 [프로젝트 1: 멀티플레이 TPS 게임 'Clash Of Blood'](https://github.com/Your-ID/Repository-Link)
+![사진](https://via.placeholder.com/700x300.png?text=Unreal+Engine+Project+GIF)
 > - **개발 기간:** 2024.01 ~ 2024.03 (2개월)
 > - **한 줄 설명:** 바닥을 많이 칠하면 이기는 팀전 멀티플레이 TPS 게임
 > - **주요 역할 및 구현 내용:**
@@ -64,15 +64,13 @@
 
 <br>
 
-### 📌 [프로젝트 2: AI NPC가 있는 Unity RPG '변신 숨바꼭질'](https://github.com/Your-ID/Repository-Link)
-![프로젝트 대표 이미지나 GIF를 여기에 넣어주세요](https://via.placeholder.com/700x300.png?text=Unity+Project+GIF)
-> - **개발 기간:** 202X.XX ~ 202X.XX (N개월)
-> - **한 줄 설명:** Langchain을 연동하여 플레이어와 자유롭게 대화할 수 있는 AI NPC가 등장하는 RPG입니다.
+### 📌 [프로젝트 2: 캐주얼 멀티플레이 'Hide & Seek'](https://github.com/Your-ID/Repository-Link)
+![사진](https://via.placeholder.com/700x300.png?text=Unity+Project+GIF)
+> - **개발 기간:** 2023.12 ~ 2024.01 (1개월)
+> - **한 줄 설명:** 사물로 변한 플레이어를 술래가 찾는 게임
 > - **주요 역할 및 구현 내용:**
->   - Unity와 Python(Django) 서버 간 RESTful API 통신 구현
->   - 대화 로그 및 퀘스트 진행도를 관리하는 UI 시스템 개발
->   - ScriptableObject를 이용한 데이터 기반 아이템 및 퀘스트 시스템 설계
-> - **사용 기술:** `Unity`, `C#`, `Python`, `Django`, `LangChain`, `REST API`
+>   - Replication을 활용한 서버 동기화 구현
+> - **사용 기술:** `Unreal Engine`, `C++`, `Blueprint`
 
 
 ## 📊 GitHub Stats
