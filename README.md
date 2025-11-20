@@ -71,7 +71,7 @@
 
 <br>
 
-### 📌 [프로젝트 2: 캐주얼 멀티플레이 'Hide & Seek'](https://github.com/Your-ID/Repository-Link)
+### 📌 [프로젝트 2: 캐주얼 멀티플레이 'Hide & Seek'](https://docs.google.com/presentation/d/1uY7ZVTC_kaYKVGXxAOkZK9mKuWxxaJmHRefZkIYyjGc/edit?usp=sharing)
 ![사진](https://via.placeholder.com/700x300.png?text=Unity+Project+GIF)
 > - **개발 기간:** 2023.12 ~ 2024.01 (1개월)
 > - **한 줄 설명:** 사물로 변한 플레이어를 술래가 찾는 게임
