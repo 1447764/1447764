@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-### 📌 [프로젝트 1: 멀티플레이 TPS 게임 'Clash Of Blood'](https://github.com/Your-ID/Repository-Link)
+### 📌 [프로젝트 1: 멀티플레이 TPS 게임 'Clash Of Blood'](https://docs.google.com/presentation/d/1uY7ZVTC_kaYKVGXxAOkZK9mKuWxxaJmHRefZkIYyjGc/edit?usp=sharing)
 ![사진](https://via.placeholder.com/700x300.png?text=Unreal+Engine+Project+GIF)
 > - **개발 기간:** 2024.01 ~ 2024.03 (2개월)
 > - **한 줄 설명:** 바닥을 많이 칠하면 이기는 팀전 멀티플레이 TPS 게임
@@ -71,7 +71,7 @@
 
 <br>
 
-### 📌 [프로젝트 2: 캐주얼 멀티플레이 'Hide & Seek'](https://docs.google.com/presentation/d/1uY7ZVTC_kaYKVGXxAOkZK9mKuWxxaJmHRefZkIYyjGc/edit?usp=sharing)
+### 📌 [프로젝트 2: 캐주얼 멀티플레이 'Hide & Seek'](https://docs.google.com/presentation/d/16WwkorbaNLINQUE8oEaOnAk0nhjjkq_TlBndq1MnVxo/edit?usp=sharing)
 ![사진](https://via.placeholder.com/700x300.png?text=Unity+Project+GIF)
 > - **개발 기간:** 2023.12 ~ 2024.01 (1개월)
 > - **한 줄 설명:** 사물로 변한 플레이어를 술래가 찾는 게임
