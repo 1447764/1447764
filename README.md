@@ -72,7 +72,7 @@
 <br>
 
 ### 📌 [프로젝트 2: 캐주얼 멀티플레이 'Hide & Seek'](https://docs.google.com/presentation/d/16WwkorbaNLINQUE8oEaOnAk0nhjjkq_TlBndq1MnVxo/edit?usp=sharing)
-[![Video Label](http://img.youtube.com/vi/5Dm7AnNd7-U/maxresdefault.jpg)](https://youtu.be/5Dm7AnNd7-U?si=6lx_D2yj779AOFEZ)
+[![Video Label](https://img.youtube.com/vi/5Dm7AnNd7-U/0.jpg)](https://youtu.be/5Dm7AnNd7-U?si=6lx_D2yj779AOFEZ)
 > - **개발 기간:** 2023.12 ~ 2024.01 (1개월)
 > - **한 줄 설명:** 사물로 변한 플레이어를 술래가 찾는 게임
 > - **주요 역할 및 구현 내용:**
