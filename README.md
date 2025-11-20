@@ -58,7 +58,6 @@
 
 
 ## 🚀 Featured Projects
-> 각 프로젝트의 상세 내용은 제목을 클릭하여 Repository에서 확인하실 수 있습니다.
 
 ### 📌 [프로젝트 1: 멀티플레이 TPS 게임 'Clash Of Blood'](https://github.com/Your-ID/Repository-Link)
 ![사진](https://via.placeholder.com/700x300.png?text=Unreal+Engine+Project+GIF)
