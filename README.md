@@ -60,7 +60,7 @@
 ## 🚀 Featured Projects
 
 ### 📌 [프로젝트 1: 멀티플레이 TPS 게임 'Clash Of Blood'](https://docs.google.com/presentation/d/1uY7ZVTC_kaYKVGXxAOkZK9mKuWxxaJmHRefZkIYyjGc/edit?usp=sharing)
-[![Video Label](http://img.youtube.com/vi/xzb595z0GRU/maxresdefault.jpg)](https://youtu.be/xzb595z0GRU?si=XRK7VGsWDpGogLqD&t=48)
+[![Video Label](http://img.youtube.com/vi/xzb595z0GRU/0.jpg)](https://youtu.be/xzb595z0GRU?si=XRK7VGsWDpGogLqD&t=48)
 > - **개발 기간:** 2024.01 ~ 2024.03 (2개월)
 > - **한 줄 설명:** 바닥을 많이 칠하면 이기는 팀전 멀티플레이 TPS 게임
 > - **주요 역할 및 구현 내용:**
