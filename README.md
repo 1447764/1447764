@@ -86,4 +86,4 @@
 
 
 ## 📫 Contact Me
-<a href="mailto:971m9280@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>  <a href="https://m-ha.tistory.com/"><a href="https://m-ha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E65543?style=for-the-badge&logo=tistory&logoColor=white"></a></a>
+<a href="mailto:971m9280@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://m-ha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E65543?style=for-the-badge&logo=tistory&logoColor=white"></a></a>
